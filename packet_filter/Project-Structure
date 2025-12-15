@@ -1,0 +1,26 @@
+packet_filter/
+├── LICENSE
+├── README.md
+├── Makefile
+├── Kbuild
+├── packet_filter.c          # Main driver implementation
+├── packet_filter.h          # Driver header file
+├── ioctl_defs.h             # IOCTL definitions
+├── userspace/
+│   ├── Makefile
+│   ├── filter_ctl.c         # Control utility
+│   ├── filter_stats.c       # Statistics viewer
+│   ├── filter_test.c        # Test program
+│   └── libfilter.h          # Userspace library header
+├── scripts/
+│   ├── load_driver.sh       # Driver loading script
+│   ├── test_suite.sh        # Automated test suite
+│   └── perf_test.sh         # Performance testing
+├── docs/
+│   ├── design.md            # Design document
+│   ├── api.md               # API documentation
+│   └── testing.md           # Testing guide
+└── tests/
+    ├── unit_test.c          # Kernel unit tests
+    ├── packet_generator.c   # Test packet generator
+    └── benchmark.c          # Performance benchmark

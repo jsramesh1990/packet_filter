@@ -728,9 +728,8 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 ##  **Getting Help**
 
 ### **Support Channels**
-- **Issues**: [GitHub Issues](https://github.com/yourusername/packet-filter-driver/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/packet-filter-driver/discussions)
-- **Email**: project@example.com
+
+- **Email**: js.ramesh1990@gmail.com
 
 ### **Before Asking for Help**
 1. Check this README and documentation

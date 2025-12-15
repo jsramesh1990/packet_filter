@@ -22,6 +22,8 @@ https://img.shields.io/badge/platform-Linux-lightgrey
 https://img.shields.io/badge/code-15KB-yellow
 https://img.shields.io/badge/tests-95%2525-success
 
+<p align="center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Make-004488?style=for-the-badge&logo=make&logoColor=white" alt="Make"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"> </p>
+
 ##  **Project Overview**
 
 A high-performance, configurable network packet filter implemented as a Linux kernel module with userspace control interface. This driver provides real-time packet filtering capabilities with rule-based matching, multiple operating modes, and comprehensive monitoring.

@@ -12,6 +12,8 @@ A high-performance, configurable network packet filter implemented as a Linux ke
 
 ##  **Key Features**
 
+<p align="center"> <img src="https://img.shields.io/badge/Architecture-Kernel+Userspace-critical?style=for-the-badge&logo=architecture&logoColor=white" alt="Architecture"> <img src="https://img.shields.io/badge/Concurrency-RCU-success?style=for-the-badge&logo=concurrency&logoColor=white" alt="Concurrency"> <img src="https://img.shields.io/badge/Memory-Zero--copy-blue?style=for-the-badge&logo=memory&logoColor=white" alt="Memory"> <img src="https://img.shields.io/badge/API-IOCTL,Sysfs,Debugfs-orange?style=for-the-badge&logo=api&logoColor=white" alt="API"> </p>
+
 ### **Core Functionality**
 - **Multi-mode Filtering**: Blacklist, Whitelist, Count-only, and Disabled modes
 - **Rule-based Filtering**: Match packets by protocol, IP addresses, and ports

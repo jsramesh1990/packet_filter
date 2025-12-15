@@ -318,6 +318,8 @@ Example:
 
 ##  **Monitoring and Debugging**
 
+<p align="center"> <img src="https://img.shields.io/badge/Monitoring-Real--time-brightgreen?style=for-the-badge&logo=monitoring&logoColor=white" alt="Monitoring"> <img src="https://img.shields.io/badge/Logging-Circular_Buffer-yellow?style=for-the-badge&logo=log&logoColor=white" alt="Logging"> <img src="https://img.shields.io/badge/Tools-CLI+ncurses-important?style=for-the-badge&logo=tools&logoColor=white" alt="Tools"> <img src="https://img.shields.io/badge/Scripting-Automated-purple?style=for-the-badge&logo=script&logoColor=white" alt="Scripting"> </p>
+
 ### **Kernel Logs**
 ```bash
 # View driver messages
@@ -713,6 +715,8 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 ##  **Acknowledgments**
 
+<p align="center"> <img src="https://img.shields.io/badge/Throughput-950,000%2B%20pps-green?style=for-the-badge&logo=speed&logoColor=white" alt="Throughput"> <img src="https://img.shields.io/badge/Latency-<10μs-blue?style=for-the-badge&logo=clock&logoColor=white" alt="Latency"> <img src="https://img.shields.io/badge/Rule_Addition-8,500%2Fsec-yellow?style=for-the-badge&logo=add&logoColor=white" alt="Rule Addition"> <img src="https://img.shields.io/badge/Memory_Usage-256KB%20base-orange?style=for-the-badge&logo=memory&logoColor=white" alt="Memory Usage"> <img src="https://img.shields.io/badge/Max_Rules-5,000%2B-purple?style=for-the-badge&logo=rule&logoColor=white" alt="Max Rules"> </p>
+
 - Linux kernel community for driver development resources
 - Network stack maintainers for API documentation
 - Open source testing tools and frameworks
@@ -735,14 +739,3 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 ---
 
-##  **Project Status**
-
-| Component | Status | Version | Notes |
-|-----------|--------|---------|-------|
-| Kernel Module |  Stable | 1.0.0 | Production ready |
-| Userspace Tools |  Stable | 1.0.0 | Feature complete |
-| Documentation |  Complete | 1.0.0 | Comprehensive |
-| Test Suite |  Complete | 1.0.0 | Automated |
-| Performance |  Optimized | 1.0.0 | Benchmarked |
-
----

@@ -1,26 +1,6 @@
 # **Advanced Packet Filter Driver Project**
 
-https://img.shields.io/badge/License-GPL%25202.0-blue.svg
-https://img.shields.io/badge/Kernel-4.4%252B-green.svg
-https://img.shields.io/badge/build-passing-brightgreen
-https://img.shields.io/badge/version-1.0.0-orange
-https://img.shields.io/badge/platform-Linux%2520x86__64%257CARM64-lightgrey
-https://img.shields.io/badge/code%2520size-15KB-yellow
-https://img.shields.io/badge/tests-95%2525%2520passing-success
-
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-https://img.shields.io/badge/Make-004488?style=for-the-badge&logo=make&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-
-https://img.shields.io/badge/License-GPL%2520v2-blue.svg
-https://img.shields.io/badge/Kernel-4.4%252B-brightgreen
-https://img.shields.io/badge/build-passing-brightgreen
-https://img.shields.io/badge/version-1.0.0-orange
-https://img.shields.io/badge/platform-Linux-lightgrey
-https://img.shields.io/badge/code-15KB-yellow
-https://img.shields.io/badge/tests-95%2525-success
+<p align="center"> <img src="https://img.shields.io/badge/License-GPL%20v2-blue?style=for-the-badge&logo=gnu&logoColor=white" alt="License"> <img src="https://img.shields.io/badge/Kernel-4.4%2B-brightgreen?style=for-the-badge&logo=linux&logoColor=white" alt="Kernel Version"> <img src="https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge&logo=gitbook&logoColor=white" alt="Version"> <img src="https://img.shields.io/badge/Platform-Linux-lightgrey?style=for-the-badge&logo=linux&logoColor=white" alt="Platform"> </p><p align="center"> <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white" alt="Build Status"> <img src="https://img.shields.io/badge/Tests-95%25-success?style=for-the-badge&logo=testcafe&logoColor=white" alt="Tests"> <img src="https://img.shields.io/badge/Coverage-90%25-green?style=for-the-badge&logo=codecov&logoColor=white" alt="Coverage"> <img src="https://img.shields.io/badge/Performance-950k%20pps-ff69b4?style=for-the-badge&logo=speedtest&logoColor=white" alt="Performance"> </p>
 
 <p align="center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Make-004488?style=for-the-badge&logo=make&logoColor=white" alt="Make"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"> </p>
 

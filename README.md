@@ -726,7 +726,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 ##  **Getting Help**
 
-### **Support Channels**
+### **Support**
 
 - **Email**: js.ramesh1990@gmail.com
 

@@ -110,6 +110,9 @@ packet_filter/
 ##  **System Requirements**
 
 ### **Hardware Requirements**
+
+<p align="center"> <img src="https://img.shields.io/badge/CPU-x86__64%20%7C%20ARM64-blue?style=for-the-badge&logo=cpu&logoColor=white" alt="CPU"> <img src="https://img.shields.io/badge/RAM-512MB%2B-green?style=for-the-badge&logo=memory&logoColor=white" alt="RAM"> <img src="https://img.shields.io/badge/Storage-100MB-yellow?style=for-the-badge&logo=harddrive&logoColor=white" alt="Storage"> <img src="https://img.shields.io/badge/Network-1%2B%20Interface-orange?style=for-the-badge&logo=network&logoColor=white" alt="Network"> </p>
+
 - **CPU**: x86_64 or ARM64 processor (multi-core recommended)
 - **RAM**: Minimum 512MB, 1GB+ recommended for testing
 - **Storage**: 100MB free space for build artifacts

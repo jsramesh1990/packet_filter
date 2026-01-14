@@ -34,7 +34,7 @@ struct pf_log_data {
     struct pf_log_entry entries[0];
 };
 
-/* IOCTL commands (defined here for both kernel and userspace) */
+/* IOCTL commands (defined for both kernel and userspace) */
 #define PF_IOC_MAGIC      'P'
 #define PF_ADD_RULE       _IOW(PF_IOC_MAGIC, 1, struct pf_rule)
 #define PF_DEL_RULE       _IOW(PF_IOC_MAGIC, 2, u32)
